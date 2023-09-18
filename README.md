@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I am currently learning we development<br>🤔Skilled in html css mysql bootstrap<br>📫reach me on mail id :chapkepratham@gmail.com<br>
+🔭I am currently learning web development<br>🤔Skilled in html css mysql bootstrap<br>📫reach me on mail id :chapkepratham@gmail.com<br>
 
 
 ## 🌐 Socials:
