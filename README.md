@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I have completed my full stackk java development course<br>🤔Skilled in html css jquery javascript mysql bootstrap java springboot jsp servlet <br>📫reach me on mail id :chapkepratham@gmail.com<br>
+🔭I have completed my full stack java development course<br>🤔Skilled in html css jquery javascript mysql bootstrap java springboot jsp servlet <br>📫reach me on mail id :chapkepratham@gmail.com<br>
 
 
 ## 🌐 Socials:
